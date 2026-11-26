@@ -58,3 +58,4 @@ sellbird.yaml.*
 harvey.local.yaml
 harvey.local.yaml.*
 harvey.yaml.*
+.run/
